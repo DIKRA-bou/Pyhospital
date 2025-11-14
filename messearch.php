@@ -28,7 +28,7 @@ if(isset($_POST['mes_search_submit']))
         <th scope='col'>User Name</th>
         <th scope='col'>Email</th>
         <th scope='col'>Contact</th>
-        <th scope='col'>Message</th>
+        <th scope='col'>Messages</th>
       </tr>
     </thead>
     <tbody>";
